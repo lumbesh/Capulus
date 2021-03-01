@@ -1,0 +1,670 @@
+@media (max-width:375px){
+    body
+    {
+        height: 812px;
+        width: 375px;
+        background: #889790;
+    } 
+    .rectangle{
+        width: 374px;
+        height: 184px;        
+    }
+    .rectangle2{
+    width: 374px;
+    height: 92px;
+    top: 174px;
+
+    }
+    .login{
+
+position: absolute;
+width: 295px;
+height: 58px;
+left: 40px;
+top: 449px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 55px;
+
+background: #FDF5F5;
+border-radius: 16px;
+    }
+
+    .signup{
+
+position: absolute;
+width: 295px;
+height: 58px;
+left: 40px;
+top: 526px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 55px;
+
+background: #FDF5F5;
+border-radius: 16px;
+
+    }
+    
+    /* Ellipse 1 */
+.ellipse{
+position: absolute;
+width: 275px;
+height: 197px;
+left: 50px;
+top: 65px;
+
+background: #B18181;
+}
+
+/* cat 1 */
+.cat{
+position: absolute;
+width: 195px;
+height: 162px;
+left: 90px;
+top: 77px;
+
+background: url(/img/mobilecat.webp);
+border-radius: 198.5px;
+}
+.about{
+    display: none;
+}
+
+/* CAPULUS */
+.capulus{
+position: absolute;
+width: 219px;
+height: 66px;
+left: 71px;
+top: 220px;
+
+font-family: Rock Salt;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 86px;
+
+color: #000000;
+}
+
+.popup1{
+
+position: absolute;
+width: 315px;
+height: 373px;
+left: 30px;
+top: 392px;
+
+background: #FDF5F5;
+border-radius: 16px;
+
+}
+
+/* username signup */
+.username1{
+position: absolute;
+width: 79px;
+height: 23px;
+left: 30px;
+top: 0px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+}
+
+
+/* email */
+.email{
+position: absolute;
+width: 79px;
+height: 23px;
+left: 42px;
+top: 60px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+}
+
+
+/* password signup */
+.password1{
+position: absolute;
+width: 79px;
+height: 23px;
+left: 42px;
+top: 120px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+}
+
+
+/* confirm password */
+.confirmpassword{
+position: absolute;
+width: 79px;
+height: 23px;
+left: 42px;
+top: 180px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+
+color: #000000;
+}
+
+.close1{
+    display: none;
+}
+
+.usersign{
+left: 108px;
+top: 20px;
+}
+.emailhold
+{
+    left: 108px;
+top: 80px;
+}
+.passwordhold
+{
+    left: 120px;
+    top: 140px;
+}
+.passwordhold1{
+    left: 120px;
+    top: 200px;
+}
+
+/* Rectangle 18 */
+.confirm1{
+position: absolute;
+width: 240px;
+height: 61px;
+left: 45px;
+top: 290px;
+
+background: #E6B1B1;
+
+
+/* Sign Up */
+
+font-family: Rochester;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 62px;
+
+color: #000000;
+}
+
+/* Rectangle 3 */
+.popup{
+position: absolute;
+width: 326px;
+height: 201px;
+left: 31px;
+top: 406px;
+
+background: #FDF5F5;
+border-radius: 16px;
+}
+/* username */
+.username{
+position: absolute;
+width: 154px;
+height: 31px;
+left: 10px;
+top: 10px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 29px;
+
+color: #000000;
+}
+.password{
+    /* password */
+
+position: absolute;
+width: 154px;
+height: 31px;
+left: 10px;
+top: 60px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 29px;
+
+color: #000000;
+
+ 
+}
+.confirm{
+    /* Rectangle 21 */
+
+position: absolute;
+width: 131px;
+height: 36px;
+left: 94px;
+top: 150px;
+font-family: Rock Salt;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 43px;
+
+background: #E5B1B1;
+border-radius: 15px;
+color: #000000;
+
+}
+
+.brewing{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 295px;
+height: 58px;
+left: 40px;
+top: 449px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 55px;
+
+color: #000000;
+
+background: #FDF5F5;
+border-radius: 16px;
+
+}
+.aboutbtn{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 295px;
+height: 58px;
+left: 40px;
+top: 526px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 55px;
+text-indent: 70px;
+/* identical to box height */
+display: none;
+color: #000000;
+
+background: #FDF5F5;
+border-radius: 16px;
+
+}
+.mainrec{
+    /* Rectangle 7 */
+width: 375px;
+height: 46px;
+top: 0;
+background: #AA5959;
+
+}
+
+.mainrec1{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 375px;
+height: 23px;
+left: 0px;
+top: 46px;
+
+background: #831A1A;
+}
+
+.maincapulus{
+    display: none;
+}
+
+.cat1{
+    /* cat 1 */
+
+position: absolute;
+width: 58px;
+height: 51px;
+left: 18px;
+top: 11px;
+
+background: url(/img/verysmolcat.webp);
+border-radius: 198.5px;
+
+}
+.mainell{
+    /* Ellipse 1 */
+
+position: absolute;
+width: 82px;
+height: 62px;
+left: 6px;
+top: 7px;
+
+background: #B18181;
+
+}
+
+.menu{
+    /* list-24px 1 */
+
+position: absolute;
+width: 56px;
+height: 41px;
+left: 300px;
+top: 12px;
+
+}
+
+.coffeerec{
+
+position: absolute;
+width: 163px;
+height: 135px;
+left: 18px;
+top: 105px;
+
+background: url(/img/coffeephone.jpg);
+border-radius: 96px;
+
+}
+
+.popupmenu{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 254px;
+height: 591px;
+left: 121px;
+top: 0px;
+
+background: rgba(239, 119, 82, 0.9);
+mix-blend-mode: normal;
+
+}
+
+.rectangle12{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 254px;
+height: 65px;
+left: 0px;
+top: 84px;
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+
+background: #F9AAAA;
+}
+.rectangle15{
+    /* Rectangle 10 */
+
+position: absolute;
+width: 254px;
+height: 65px;
+left: 0px;
+top: 157px;
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+
+
+background: #F9AAAA;
+}
+.rectangle17{/* Rectangle 12 */
+
+    position: absolute;
+    width: 254px;
+    height: 65px;
+    left: 0px;
+    top: 230px;
+        
+    font-family: Rosario;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+    
+    background: #F9AAAA;
+    
+    }
+.rectangle19{
+    /* Rectangle 14 */
+
+position: absolute;
+width: 254px;
+height: 65px;
+left: 0px;
+top: 526px;
+
+background: #F9AAAA;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+
+}
+
+.rectangle13{/* Rectangle 9 */
+
+    position: absolute;
+    width: 7px;
+    height: 65px;
+    left: 0px;
+    top: 84px;
+    
+    background: #1B0202;
+    border-radius: 2px;
+    }
+.rectangle16{/* Rectangle 11 */
+
+    position: absolute;
+    width: 7px;
+    height: 65px;
+    left: 0px;
+    top: 157px;
+    
+    background: #1B0202;
+    border-radius: 2px;
+    }
+.rectangle18{/* Rectangle 13 */
+
+    position: absolute;
+    width: 7px;
+    height: 65px;
+    left: 0px;
+    top: 230px;
+    
+    background: #1B0202;
+    border-radius: 2px;
+    }
+.rectangle20{/* Rectangle 15 */
+
+    position: absolute;
+    width: 7px;
+    height: 65px;
+    left: 0px;
+    top: 526px;
+    
+    background: #1B0202;
+    border-radius: 2px;
+    }
+
+    .bc{
+        /* 529515133-H1 1 */
+
+position: absolute;
+width: 282px;
+height: 202px;
+left: 44px;
+top: 135px;
+
+background: url(/img/coffeenanaman.jpg);
+border-radius: 96px;
+
+    }
+
+    .bct{
+        /* Black Coffee */
+
+position: absolute;
+width: 190px;
+height: 51px;
+left: 90px;
+top: 337px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+
+color: #000000;
+
+
+    }
+
+    .recipes{
+        /* Rectangle 22 */
+
+position: absolute;
+width: 152px;
+height: 62px;
+left: 109px;
+top: 426px;
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 65px;
+text-indent: 30px;
+
+color: #000000;
+
+background: #C4C4C4;
+border-radius: 50px;
+
+    }
+
+    .origin{
+        /* Rectangle 23 */
+
+position: absolute;
+width: 152px;
+height: 62px;
+left: 109px;
+top: 508px;
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 65px;
+text-indent: 35px;
+
+color: #000000;
+
+background: #C4C4C4;
+border-radius: 50px;
+    }
+
+.originpopup{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 353px;
+height: 299px;
+left: 8px;
+top: 356px;
+
+background: #E1D7BC;
+mix-blend-mode: multiply;
+border-radius: 34px;
+
+}
+.origindescBC{
+     
+
+position: absolute;
+width: 308px;
+height: 242px;
+left: 25px;
+top: 384px;
+
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+
+
+}
+
+.closeorigin{
+
+position: absolute;
+left: -15px;
+top: -15px;
+
+
+background: #000000;
+
+}
+}
+
+
+
